@@ -1,5 +1,5 @@
-<h1 align="center">JDA 4 Discord Bot</h1>
-<p align="center">A cool multipurpose bot built using <a href="https://github.com/DV8FromTheWorld/JDA">Java Discord API</a></p>
+<h1 align="center">Java Discord Bot</h1>
+<p align="center">A multipurpose bot built using <a href="https://github.com/DV8FromTheWorld/JDA">Java Discord API</a></p>
 
 # Features
 - Powerful Moderation
